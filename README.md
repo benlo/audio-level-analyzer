@@ -37,7 +37,7 @@ choco install ffmpeg
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/votre-username/audio-level-analyzer.git
+git clone https://github.com/benlov/audio-level-analyzer.git
 cd audio-level-analyzer
 ```
 
