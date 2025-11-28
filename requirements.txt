@@ -1,0 +1,8 @@
+# Audio Level Analyzer
+# 
+# Ce script n'a pas de dépendances Python externes.
+# Il utilise uniquement la bibliothèque standard Python.
+#
+# Prérequis système :
+# - Python 3.8+
+# - FFmpeg (sudo apt install ffmpeg)
